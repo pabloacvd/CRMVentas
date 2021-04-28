@@ -7,6 +7,6 @@ public class Oportunidad {
     Cliente cliente;
     LocalDate fechaDeContacto;
     boolean clienteAceptaLlamadas;
-    List<Item> items;// productos y servicios ofrecidos
+    //List<Item> items;// productos y servicios ofrecidos
 
 }
